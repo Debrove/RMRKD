@@ -62,7 +62,7 @@ bash tools/dist_test.sh configs/pspnet/pspnet_r18-d8_512x512_40k_cityscapes.py $
 
 
 ## Acknowledgements
-Our code is based on [MMDetection3d](https://github.com/open-mmlab/mmdetection3d), [MGD](https://github.com/yzd-v/MGD.git), [CIRKD](https://github.com/winycg/CIRKD). Many thanks to these great works and open-source codebases.
+Our code is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation), [MGD](https://github.com/yzd-v/MGD.git), [CIRKD](https://github.com/winycg/CIRKD). Many thanks to these great works and open-source codebases.
 
 ## Citation
 ```
